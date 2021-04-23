@@ -1,3 +1,4 @@
+library(plotly)
 library(markdown)
 library(shiny)
 library(shinydashboard)
